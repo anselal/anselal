@@ -18,7 +18,7 @@ My name is Anastasios Selalmazidis and I'm an IT Manager. I'm from Greece, livin
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anselal/anselal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselal&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselal&hide=php,c,vim%20script,objective-c,actionscript,roff,html,javascript,css,scss,java,&langs_count=3&theme=nord" />
 </a>
 <a href="https://github.com/anselal/anselal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anselal&show_icons=true&line_height=27&count_private=true&theme=nord" alt="Anastasios's GitHub Stats" />
